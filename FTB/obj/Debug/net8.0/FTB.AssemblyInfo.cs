@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FTB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a07cd4cd451bdd43d60d16d2f55655282bc4cc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FTB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FTB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

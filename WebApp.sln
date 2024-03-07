@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCStudentApp", "MVCStudentApp\MVCStudentApp.csproj", "{65221E28-F735-4561-B25C-818E470730EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTB", "FTB\FTB.csproj", "{AB3B91A2-88AF-4523-B706-540BD1DD0474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTB", "FTB\FTB.csproj", "{AB3B91A2-88AF-4523-B706-540BD1DD0474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eterna", "Eterna\Eterna.csproj", "{AFEEAB87-F12C-44EE-9128-98787A96B7DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AB3B91A2-88AF-4523-B706-540BD1DD0474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3B91A2-88AF-4523-B706-540BD1DD0474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3B91A2-88AF-4523-B706-540BD1DD0474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEEAB87-F12C-44EE-9128-98787A96B7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEEAB87-F12C-44EE-9128-98787A96B7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEEAB87-F12C-44EE-9128-98787A96B7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEEAB87-F12C-44EE-9128-98787A96B7DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
