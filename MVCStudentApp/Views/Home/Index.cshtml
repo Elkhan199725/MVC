@@ -1,0 +1,46 @@
+﻿@model HomeIndexViewModel;
+
+<h3>Students</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">FullName</th>
+            <th scope="col">Age</th>
+            <th scope="col">Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var std in Model.Students)
+        {
+            <tr>
+                <th scope="row">@std.Id</th>
+                <td>@std.FullName</td>
+                <td>@std.Age</td>
+                <td>@std.Grade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<h3>Teachers</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">FullName</th>
+            <th scope="col">Age</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tch in Model.Teachers)
+        {
+            <tr>
+                <th scope="row">@tch.Id</th>
+                <td>@tch.FullName</td>
+                <td>@tch.Age</td>
+                <td>@tch.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>

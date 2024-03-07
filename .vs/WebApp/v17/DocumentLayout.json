@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\ftb\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\ftb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\ftb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB3B91A2-88AF-4523-B706-540BD1DD0474}|FTB\\FTB.csproj|solutionrelative:ftb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "FTB\\Models\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Models\\Testimonial.cs",
+              "RelativeToolTip": "FTB\\Models\\Testimonial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:40:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FTB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FTB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:57:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "FTB\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "FTB\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:50:07.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "FTB\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Models\\Service.cs",
+              "RelativeToolTip": "FTB\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:30:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FTB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FTB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T02:51:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FTB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FTB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:50:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FTB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FTB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAADwv6IAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T02:14:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Program.cs",
+              "RelativeDocumentMoniker": "FTB\\Program.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\FTB\\Program.cs",
+              "RelativeToolTip": "FTB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:09:52.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
