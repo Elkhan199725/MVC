@@ -9,8 +9,10 @@ namespace Eterna.DataAccessLayer
         {
 
         }
-
-        public DbSet<Slider> Sliders { get; set; }
-        public DbSet<Feature> Features { get; set; }
+        public DbSet<Product> Products { get; set; } = null!;
+        public DbSet<ProductImages> ProductImages { get; set; } = null!;
+        public DbSet<Category> Categories { get; set; } = null!;
+        public DbSet<Slider> Sliders { get; set; } = null!;
+        public DbSet<Feature> Features { get; set; } = null!;
     }
 }
