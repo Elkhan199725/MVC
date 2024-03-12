@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "duLXeP85qIfdYLoGEHcYHtaUBLJUlfOKJjNQq51tios=",
+  "Hash": "r33EiriY+QHaFPfl08MLBpYAywozUbGhjflq//9OHj8=",
   "Source": "Eterna",
   "BasePath": "_content/Eterna",
   "Mode": "Default",
@@ -281,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\main.js",
+      "SourceId": "Eterna",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\",
+      "BasePath": "_content/Eterna",
+      "RelativePath": "admin/js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\main.js"
     },
     {
       "Identity": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\sb-admin-2.js",
@@ -36096,6 +36115,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide\\slide-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\assets\\img\\slide\\slide-4.jpg",
+      "SourceId": "Eterna",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\",
+      "BasePath": "_content/Eterna",
+      "RelativePath": "assets/img/slide/slide-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\slide\\slide-4.jpg"
     },
     {
       "Identity": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\assets\\img\\team\\team-1.jpg",

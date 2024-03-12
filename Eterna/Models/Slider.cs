@@ -4,9 +4,9 @@ namespace Eterna.Models;
 
 public class Slider : BaseClass
 {
-    [Required]
+    [Required(ErrorMessage ="The Title 1 field is required!")]
     [StringLength(maximumLength:25)]
-    public string? Title1 { get; set; }
+    public string Title1 { get; set; }
     [Required]
     [StringLength(maximumLength:25)]
     public string? Title2 { get; set; }

@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\admin\\js\\demo\\datatables-demo.js"
     },
     {
+      "Id": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
       "Id": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
     },
@@ -7591,6 +7595,10 @@
     {
       "Id": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\assets\\img\\slide\\slide-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slide\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\assets\\img\\slide\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slide\\slide-4.jpg"
     },
     {
       "Id": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\assets\\img\\team\\team-1.jpg",
