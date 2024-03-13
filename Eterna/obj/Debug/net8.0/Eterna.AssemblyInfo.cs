@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eterna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29c2816e010be4891fb8b5b58570bfab6d1bbc1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51d05148dbb7f00b805b2be64bda479fc30635f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eterna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eterna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

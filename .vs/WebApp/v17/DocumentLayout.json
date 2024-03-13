@@ -1,44 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\wwwroot\\admin\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\wwwroot\\admin\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapp\\eterna\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFEEAB87-F12C-44EE-9128-98787A96B7DE}|Eterna\\Eterna.csproj|solutionrelative:eterna\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -46,112 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAEYBAAAAAAAAAAAIwFcBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T08:15:49.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\main.js",
-              "RelativeDocumentMoniker": "Eterna\\wwwroot\\admin\\js\\main.js",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\wwwroot\\admin\\js\\main.js",
-              "RelativeToolTip": "Eterna\\wwwroot\\admin\\js\\main.js",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-12T08:01:51.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T07:58:51.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Eterna\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Models\\Slider.cs",
-              "RelativeToolTip": "Eterna\\Models\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T06:37:37.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T04:36:45.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T03:49:20.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T04:01:47.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T03:54:19.432Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -159,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Eterna\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebApp\\Eterna\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Eterna\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAgwEUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:58:51.615Z",
-              "EditorCaption": ""
             }
           ]
         }

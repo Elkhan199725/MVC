@@ -17,6 +17,6 @@ public class Product : BaseClass
     public string? Client { get; set; }
     [StringLength(250)]
     public string? ProjectUrl { get; set; }
-    public Category Category { get; set; } = null!;
-    public List<ProductImages> ProductImages { get; set; } = null!;
+    public Category? Category { get; set; } = null!;
+    public List<ProductImages>? ProductImages { get; set; } = null!;
 }

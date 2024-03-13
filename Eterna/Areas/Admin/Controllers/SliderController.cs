@@ -1,6 +1,7 @@
 ﻿using Eterna.DataAccessLayer;
 using Eterna.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Eterna.Areas.Admin.Controllers;
 [Area("Admin")]
@@ -23,6 +24,7 @@ public class SliderController : Controller
         return View();
     }
     [HttpPost]
+    [ValidateAntiForgeryToken]
     public IActionResult Create(Slider slider)
     {
         if(!ModelState.IsValid) return View();
@@ -64,13 +66,13 @@ public class SliderController : Controller
         return RedirectToAction(nameof(Index));
     }
     [HttpGet]
-    public IActionResult Delete(int id)
+    public async Task<IActionResult> Delete(int id)
     {
-        var data = _context.Sliders.FirstOrDefault(x => x.Id == id);
+        var data = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
         if (data == null) return NotFound(); //404
 
         _context.Sliders.Remove(data);
-        _context.SaveChanges();
+        await _context.SaveChangesAsync();
         return Ok(); //200
     }
 }

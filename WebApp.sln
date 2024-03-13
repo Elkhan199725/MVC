@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCStudentApp", "MVCStudent
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTB", "FTB\FTB.csproj", "{AB3B91A2-88AF-4523-B706-540BD1DD0474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eterna", "Eterna\Eterna.csproj", "{AFEEAB87-F12C-44EE-9128-98787A96B7DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eterna", "Eterna\Eterna.csproj", "{AFEEAB87-F12C-44EE-9128-98787A96B7DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
